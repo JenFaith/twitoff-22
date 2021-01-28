@@ -11,6 +11,11 @@ tweepy = "*"
 spacy = "*"
 python-dotenv = "*"
 scikit-learn = "*"
+<<<<<<< HEAD
+gunicorn = "*"
+psycopg2-binary = "*"
+=======
+>>>>>>> cbc2a8ecfe77e9a5b609ec083224d6249b07c592
 
 [dev-packages]
 
