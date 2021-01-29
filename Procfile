@@ -1,1 +1,1 @@
-web gunicorn --chdir twitoff app:app
+web: gunicorn --chdir twitoff app:app
