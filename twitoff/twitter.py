@@ -2,7 +2,7 @@
 from os import getenv
 import tweepy  # Allows us to interact with Twitter
 import spacy  # Vectorizes our tweets
-from .models import DB, Tweet, User
+from models import DB, Tweet, User
 
 
 TWITTER_API_KEY = getenv("TWITTER_API_KEY")
